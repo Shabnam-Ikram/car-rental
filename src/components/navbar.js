@@ -70,11 +70,11 @@ function ResponsiveAppBar() {
               </Button>
             ))}
           </Box>
-          <Tooltip title="Open settings">
-            <IconButton onClick={handleOpenUserMenu}>
-              {/* <Avatar alt="User Avatar" /> */}
-            </IconButton>
-          </Tooltip>
+          // <Tooltip title="Open settings">
+          //   <IconButton onClick={handleOpenUserMenu}>
+          //     {/* <Avatar alt="User Avatar" /> */}
+          //   </IconButton>
+          // </Tooltip>
           {/* User menu */}
         </Toolbar>
       </Container>
