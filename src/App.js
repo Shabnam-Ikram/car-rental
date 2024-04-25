@@ -1,10 +1,10 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 import ResponsiveAppBar from './components/navbar';
 import BoxBasic from './components/hero';
 import ActionAreaCard from './components/feature';
 import BasicGrid from './components/about';
-import ResponsiveGrid from './components/media';
+// import ResponsiveGrid from './components/media';
 import ServicesSection from './components/services';
 import GallerySection from './components/media';
 import ClientReviews from './components/client';
